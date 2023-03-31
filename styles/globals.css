@@ -149,8 +149,8 @@ body {
 }
 
 body {
-  background: url("/static/mesh-gradient.png");
-  background-position: absolute;
+  background: url("/static/mesh-gradient.WebP");
+  background-position: relative;
   background-repeat: no-repeat;
   background-size: cover;
   color: #fff;
