@@ -13,7 +13,7 @@ const Card = (props) => {
         <div className={styles.cardImageWrapper}>
           <Image
             className={styles.cardImage}
-            alt=""
+            alt={name}
             src={imgUrl}
             width={260}
             height={160}
